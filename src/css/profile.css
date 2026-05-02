@@ -354,7 +354,7 @@ body {
   filter: brightness(0.95);
 }
 
-.profile-footer{
+/* .profile-footer{
   width: 100%;
   padding: 5px;
   text-align: center;
@@ -364,7 +364,7 @@ body {
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-}
+} */
 
 @media (max-width: 720px) {
   .profile-header {

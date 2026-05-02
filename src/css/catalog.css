@@ -410,10 +410,10 @@ body {
 
 footer {
   width: 100%;
-  margin-top: 18px;
+  margin-top: -30px;
   text-align: center;
   font-size: 0.84rem;
-  color: #00000;
+  color: #000000;
 }
 
 footer p {

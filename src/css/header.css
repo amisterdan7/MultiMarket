@@ -1,0 +1,36 @@
+.header-catalog {
+    border: var(--roxo) solid 1px;
+    background-color: var(--roxo);
+    height: var(--header-height);
+}
+
+
+.menu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    background-color: var(--roxo);
+    color: #fff;
+}
+
+.menu-header h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+.menu-header #closeBtn {
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-size: 1.5rem;
+    cursor: pointer;
+    line-height: 1;
+    transition: opacity 0.2s;
+}
+
+.menu-header #closeBtn:hover {
+    opacity: 0.7;
+}
